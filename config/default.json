@@ -1,0 +1,5 @@
+{
+  "port": 4444,
+  "mongoUri": "mongodb+srv://vanikvardanyandev:92702689@cluster0.o0rlxya.mongodb.net/",
+  "corsOrigin": "http://localhost:3000"
+}
